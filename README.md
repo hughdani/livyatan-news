@@ -1,7 +1,7 @@
 # Livyatan
 
 ## Description
-Livyatan is a news aggregator built on top of News API that delivers news from over 130 sources from around the world.
+Livyatan is a news aggregator built on top of News API which delivers news from over 130 sources from around the world.
 Users are able to create custom feeds, favorite articles, share articles on social media,
 and curate their feeds based on sources and categories. Livyatan also offers trending tweets
 provided by Twitters Developer API, real-time CAD currency exchange rates, and up to date
@@ -16,7 +16,6 @@ weather forecasts.
 * Backend: NodeJS, Express, NGINX, Docker
 * Database: MongoDB
 * OAuth authentication
-* HTTPS certificate
 
 ## Running instructions:
 To run the project locally
