@@ -40,6 +40,6 @@ npm start
 node src/server.js
 ```
 
-Note: docker files are used to run the web app with our NGINX server, not locally.
+Note: Docker files are used to run the web app with a configured NGINX server, not locally.
 
 _Credits: Daniel Hugh, Darius Asri Rezaei, James Nicol_
